@@ -1,6 +1,6 @@
 # food_api
 
-A new Flutter project.
+A new Flutter project of "Food Reciepe" made with using API.
 
 ## Getting Started
 
